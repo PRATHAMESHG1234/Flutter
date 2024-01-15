@@ -1,5 +1,5 @@
-[submodule "learning"]
-	path = learning
+[submodule "Learnings"]
+	path = Learnings
 	url =https://github.com/PRATHAMESHG1234/Core2Web_dart_lernings
 [submodule "projects"]
 	path = projects

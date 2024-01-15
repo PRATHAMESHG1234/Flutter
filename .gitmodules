@@ -1,6 +1,6 @@
 [submodule "learning"]
 	path = learning
-	url = https://github.com/PRATHAMESHG1234/Core2Web_dart_lernings.git
+	url =https://github.com/PRATHAMESHG1234/Core2Web_dart_lernings
 [submodule "projects"]
 	path = projects
 	url = https://github.com/PRATHAMESHG1234/Projects.git

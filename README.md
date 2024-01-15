@@ -23,5 +23,6 @@ If you are interested in accessing the content of the learning or projects repos
 If you have any questions or need further information, feel free to reach out to me:
 
 - [My Portfolio](https://prathamesh-ghorpade.netlify.app/)
+- [Email](mailto:ghorpadeprathamesh2411@gmail.com)
 
 Thank you for visiting!

@@ -6,12 +6,12 @@ Welcome to my Flutter repository! This repository includes submodules for learni
 
 ### Learning
 
-- Repository: [Link to Learning Repository](link_to_learning_repo)
+- Repository: [Link to Learning Repository](https://github.com/PRATHAMESHG1234/Core2Web_dart_learnings.git)
 - Status: Private
 
 ### Projects
 
-- Repository: [Link to Projects Repository](link_to_projects_repo)
+- Repository: [Link to Projects Repository](https://github.com/PRATHAMESHG1234/Projects.git)
 - Status: Private
 
 ## Usage
@@ -22,6 +22,6 @@ If you are interested in accessing the content of the learning or projects repos
 
 If you have any questions or need further information, feel free to reach out to me:
 
-- [My Portfolio](link_to_portfolio)
+- [My Portfolio](https://prathamesh-ghorpade.netlify.app/)
 
 Thank you for visiting!

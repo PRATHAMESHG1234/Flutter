@@ -14,3 +14,6 @@
 [submodule "Learning_Projects"]
 	path = Learning_Projects
 	url = https://github.com/PRATHAMESHG1234/Projects.git
+[submodule "DailyFlash"]
+	path = DailyFlash
+	url = https://github.com/PRATHAMESHG1234/C2W_Daily_Flash.git
